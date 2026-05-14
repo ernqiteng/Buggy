@@ -1,4 +1,4 @@
-# RoboSoc Buggy Project 🤖🚗
+# Robotics Buggy Project
 
 This project was developed as part of the **Buggy Project** organised by the University of Manchester Robotics Society (RoboSoc). Across the second semester, our team built, programmed, and refined a fully functional robotics buggy using embedded systems, sensor integration, and real-time motor control.
 
@@ -25,7 +25,7 @@ The aim was not only to build a working robot, but to understand how software lo
 
 # Key Features
 
-## ⚡ Dual DC Motor Drive System
+## Dual DC Motor Drive System
 
 Independent control of left and right motors allows:
 
@@ -38,7 +38,7 @@ PWM motor control enables adjustable speed tuning for smoother movement and impr
 
 ---
 
-## 📡 Ultrasonic Distance Sensing
+## Ultrasonic Distance Sensing
 
 An HC-SR04 ultrasonic sensor provides real-time distance measurements by calculating pulse reflection timing.
 
@@ -50,7 +50,7 @@ This forms the foundation for future autonomous obstacle avoidance functionality
 
 ---
 
-## 🎯 Servo-Based Sensor Scanning
+## Servo-Based Sensor Scanning
 
 The ultrasonic sensor is mounted on a servo motor capable of rotating between:
 
@@ -62,7 +62,7 @@ This enables wider environmental awareness and directional sensing.
 
 ---
 
-## 🧠 Modular Embedded Control System
+## Modular Embedded Control System
 
 The software architecture was designed using modular functions for clarity and scalability:
 
